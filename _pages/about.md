@@ -12,7 +12,7 @@ redirect_from:
 
 welcome to my personal webpage. I am a biomedical engineer finishing a Master's degree on the same field at the University of Zaragoza (Spain). I am passionate about tissue engineering, prosthesis and implant design and, rehabilitation applications.
 
-You can check some of the projects I have done [here](https://javiersainzvillalba.github.io/talks/). 
+You can check some of the projects I have done [here](https://javiersainzvillalba.github.io/publications/). 
 
 My research interests include scaffolds, tissue-implant interface, prosthesis and many more...[curriculum vitae](https://javiersainzvillalba.github.io/cv/) 
 
