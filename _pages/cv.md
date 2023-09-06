@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* General Certificate Education, José Saramago High School, Madrid-Spain, 2014
+* Education certificate in Music, Double Bass specialty, Professional Music School of Majadahonda, Madrid-Spain, 2015
+* Certificate of Higher Education in 3D Animation and Virtual Environments, European University, Madrid-Spain, 2018
+* Engineer's degree in Biomedical Engineering, European University, Madrid-Spain, 2022
+* M.S. in Biomedical Engineering, Zaragoza University, Zaragoza-Spain, Current
 
-Work experience
+## Languages
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spanish: Native
+* English: Proficient
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+## Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C#: Advanced
+* Java: Proficient
+* Matlab: Intermediate
+  
+## Skills
+======
+* 3D Design: Solidworks (certified)
+* 3D Modeling: Maya, Blender
+* Image Analysis: Matlab
+* Numerical simulation and mechanical testing: Abaqus
+* Electrical circuit simulation and testing: Proteus, Multisim
+* Graphic Design: Photoshop
 
-Publications
+## Research interests
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Tissue engineering: scaffolds, organoids, tissue-implant interface
+* Design of prosthesis, orthesis and implants
+* Design of rehabilitation applications
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
