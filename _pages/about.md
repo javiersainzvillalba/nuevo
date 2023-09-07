@@ -14,7 +14,7 @@ redirect_from:
 
 You can check some of the projects I have done [here](https://javiersainzvillalba.github.io/publications/). 
 
-My research interests include scaffolds, tissue-implant interface, prosthesis and many more...[curriculum vitae](https://javiersainzvillalba.github.io/cv/) 
+My research interests include scaffolds, tissue-implant interface, prosthesis and many more...[curriculum vitae](https://javiersainzvillalba.github.io/files/cv_en_jsv.pdf)
 
 You can contact me at javiervsainz@gmail.com 
 
