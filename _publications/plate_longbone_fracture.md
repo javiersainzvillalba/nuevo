@@ -24,4 +24,12 @@ citation: 'EPROM'
 # LEDS
 <div style="text-align:justify"> We will connect to the output of the Eprom memory three leds in the outputs D4, D5 and D6. The outputs are red, yellow and green respectively. When programming the Eprom memory we will be able to visualize how these memory outputs are only activated in very specific occasions. </div>
 <br> 
+# Counter Display
+<div style="text-align:justify"> Finally we put a display with its respective encoder. In this case it is a seven-segment common anode type display with a 7447 decoder. Power is supplied to the display and it will receive the BCD numbers through the decoder outputs. Previously the decoder receives the information from the Eprom memory from which it will take the values. Later it is explained in a table how this implementation has been made. </div>
+<br> 
+# Eprom Memory
+<div style="text-align:justify"> This is the most important part of the proyect and the one that will allow it to work correctly. The different frequencies received from the frequency divider will be connected to the inputs of the Eprom memory and the memory will produce some outputs that will activate the decoder as well as the display. This memory will be programmed in the Eproms editor program called HxD. There from the tables that we have created according to the inputs we will begin to assign numbers that we will explain below. </div>
+<br> 
+# Showcase Video
+
 
