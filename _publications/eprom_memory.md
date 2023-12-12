@@ -14,7 +14,8 @@ citation: 'EPROM'
 ## SYSTEM CONSTRUCTION
 # Power supply
 <div style="text-align:justify"> We put a power supply for the operation of the system by putting an AC signal generator at a frequency of 3Hz. All this to be able to see the operation of our system. The necessary changes are made to convert the AC signal into a pulse signal and its correct operation can be checked. Next, we put a frequency divider that will be connected to our Eprom memory. We have put 5 volts to the pulse signal so that our system works correctly. In this case only the outputs of the frequency divider from Q0 to Q4 will be used. </div> 
-<img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="300" width="215">
+<div align="center">
+<img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
 </div>
 <br>
 # Frequency divider 4040
