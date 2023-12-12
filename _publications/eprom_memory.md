@@ -14,8 +14,6 @@ citation: 'EPROM'
 ## SYSTEM CONSTRUCTION
 # Power supply
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     /* Estilo para el contenedor principal */
     .contenedor {
@@ -23,17 +21,15 @@ citation: 'EPROM'
       align-items: center; /* Centra verticalmente los elementos */
     }
   </style>
-  <title>Texto e Imagen</title>
 </head>
-<body>
 
+<body>
 <!-- Contenedor principal -->
 <div class="contenedor">
   <!-- Área del texto (parte izquierda) -->
   <div class="texto">
      <p> <div style="text-align:justify"> We put a power supply for the operation of the system by putting an AC signal generator at a frequency of 3Hz. All this to be able to see the operation of our system. The necessary changes are made to convert the AC signal into a pulse signal and its correct operation can be checked. Next, we put a frequency divider that will be connected to our Eprom memory. We have put 5 volts to the pulse signal so that our system works correctly. In this case only the outputs of the frequency divider from Q0 to Q4 will be used. </div> </p>
   </div>
-
   <!-- Área de la imagen (parte derecha) -->
   <div class="imagen">
     <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
