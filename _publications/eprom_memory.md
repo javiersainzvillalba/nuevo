@@ -48,7 +48,7 @@ citation: 'EPROM'
 
   <!-- Área de la imagen (parte derecha) -->
   <div class="imagen">
-    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
+    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="601" width="392">
   </div>
 </div>
 
