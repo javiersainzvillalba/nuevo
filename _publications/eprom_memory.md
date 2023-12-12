@@ -17,6 +17,50 @@ citation: 'EPROM'
 <div align="center">
 <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
 </div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Estilo para el contenedor principal */
+    .contenedor {
+      display: flex; /* Usa flexbox para organizar los elementos en fila */
+      align-items: center; /* Centra verticalmente los elementos */
+    }
+
+    /* Estilo para el área del texto (parte izquierda) */
+    .texto {
+      flex: 1; /* Ocupa todo el espacio disponible */
+      padding: 20px; /* Añade espacio alrededor del texto */
+    }
+
+    /* Estilo para el área de la imagen (parte derecha) */
+    .imagen {
+      flex-shrink: 0; /* Evita que la imagen se reduzca en tamaño */
+    }
+  </style>
+  <title>Texto e Imagen</title>
+</head>
+<body>
+
+<!-- Contenedor principal -->
+<div class="contenedor">
+  <!-- Área del texto (parte izquierda) -->
+  <div class="texto">
+    <h2>Texto en la parte izquierda</h2>
+    <p>Este es un ejemplo de cómo mostrar texto en la parte izquierda y una imagen en la parte derecha.</p>
+  </div>
+
+  <!-- Área de la imagen (parte derecha) -->
+  <div class="imagen">
+    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="Descripción de la imagen">
+  </div>
+</div>
+
+</body>
+</html>
+
 <br>
 # Frequency divider 4040
 <div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> 
