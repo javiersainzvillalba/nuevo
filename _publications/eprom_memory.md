@@ -13,7 +13,7 @@ citation: 'EPROM'
 <br>
 ## SYSTEM CONSTRUCTION
 # Power supply
-<html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,8 +53,6 @@ citation: 'EPROM'
 </div>
 
 </body>
-</html>
-
 <br>
 # Frequency divider 4040
 <div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> 
