@@ -13,7 +13,6 @@ citation: 'EPROM'
 <br>
 ## SYSTEM CONSTRUCTION
 # Power supply
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,17 +21,6 @@ citation: 'EPROM'
     .contenedor {
       display: flex; /* Usa flexbox para organizar los elementos en fila */
       align-items: center; /* Centra verticalmente los elementos */
-    }
-
-    /* Estilo para el área del texto (parte izquierda) */
-    .texto {
-      flex: 1; /* Ocupa todo el espacio disponible */
-      padding: 20px; /* Añade espacio alrededor del texto */
-    }
-
-    /* Estilo para el área de la imagen (parte derecha) */
-    .imagen {
-      flex-shrink: 0; /* Evita que la imagen se reduzca en tamaño */
     }
   </style>
   <title>Texto e Imagen</title>
@@ -51,7 +39,6 @@ citation: 'EPROM'
     <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="601" width="392">
   </div>
 </div>
-
 </body>
 <br>
 # Frequency divider 4040
