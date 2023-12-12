@@ -17,7 +17,6 @@ citation: 'EPROM'
 <div align="center">
 <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
 </div>
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -48,13 +47,12 @@ citation: 'EPROM'
 <div class="contenedor">
   <!-- Área del texto (parte izquierda) -->
   <div class="texto">
-    <h2>Texto en la parte izquierda</h2>
-    <p>Este es un ejemplo de cómo mostrar texto en la parte izquierda y una imagen en la parte derecha.</p>
+     <p> <div style="text-align:justify"> We put a power supply for the operation of the system by putting an AC signal generator at a frequency of 3Hz. All this to be able to see the operation of our system. The necessary changes are made to convert the AC signal into a pulse signal and its correct operation can be checked. Next, we put a frequency divider that will be connected to our Eprom memory. We have put 5 volts to the pulse signal so that our system works correctly. In this case only the outputs of the frequency divider from Q0 to Q4 will be used. </div> </p>
   </div>
 
   <!-- Área de la imagen (parte derecha) -->
   <div class="imagen">
-    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="Descripción de la imagen">
+    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
   </div>
 </div>
 
