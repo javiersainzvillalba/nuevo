@@ -54,7 +54,7 @@ date: 2023-09-06
 <div class="contenedor">
   <!-- Área del texto (parte izquierda) -->
   <div class="texto">
-    <p> <div style="text-align:justify"> <div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> </p>
+    <p> <div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> </p>
   </div>
   <!-- Área de la imagen (parte derecha) -->
   <div class="imagen">
