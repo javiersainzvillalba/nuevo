@@ -11,8 +11,7 @@ citation: 'EPROM'
 ## INTRODUCTION
 <div style="text-align:justify"> A circuit will be designed to simulate the lights of a traffic light based on a 4040 frequency divider, an And gate that will serve to reset the system, an Eprom memory that will be programmed in HxD so that it can work correctly, three LEDs that represent the status of the traffic light and finally a seven-segment BCD encoder with a seven-segment common anode display to show the remaining seconds of the status. </div> 
 <br>
-## SYSTEM CONSTRUCTION
-<!DOCTYPE html>
+# SYSTEM CONSTRUCTION
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -23,33 +22,21 @@ citation: 'EPROM'
       display: flex; /* Usa flexbox para organizar los elementos en fila */
       align-items: center; /* Centra verticalmente los elementos */
     }
-
-    /* Estilo para el área del texto (parte izquierda) */
-    .texto {
-      flex: 1; /* Ocupa todo el espacio disponible */
-      padding: 20px; /* Añade espacio alrededor del texto */
-    }
-
-    /* Estilo para el área de la imagen (parte derecha) */
-    .imagen {
-      flex-shrink: 0; /* Evita que la imagen se reduzca en tamaño */
-    }
   </style>
   <title>Texto e Imagen</title>
 </head>
+  
 <body>
-
 <!-- Contenedor principal -->
 <div class="contenedor">
   <!-- Área del texto (parte izquierda) -->
   <div class="texto">
-    <h2>Texto en la parte izquierda</h2>
     <p> <div style="text-align:justify"> We put a power supply for the operation of the system by putting an AC signal generator at a frequency of 3Hz. All this to be able to see the operation of our system. The necessary changes are made to convert the AC signal into a pulse signal and its correct operation can be checked. Next, we put a frequency divider that will be connected to our Eprom memory. We have put 5 volts to the pulse signal so that our system works correctly. In this case only the outputs of the frequency divider from Q0 to Q4 will be used. </div </p>
   </div>
 
   <!-- Área de la imagen (parte derecha) -->
   <div class="imagen">
-    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd">
+    <img src="https://javiersainzvillalba.github.io/images/EPROM1.png" alt="ddd" height="651" width="442">
   </div>
 </div>
 </body>
