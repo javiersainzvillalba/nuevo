@@ -36,8 +36,32 @@ date: 2023-09-06
 </body>
 <br>
 
-# Frequency divider 4040
-<div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> 
+## Frequency divider 4040
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Estilo para el contenedor principal */
+    .contenedor {
+      display: flex; /* Usa flexbox para organizar los elementos en fila */
+      align-items: center; /* Centra verticalmente los elementos */
+    }
+  </style>
+</head>
+  
+<body>
+<!-- Contenedor principal -->
+<div class="contenedor">
+  <!-- Área del texto (parte izquierda) -->
+  <div class="texto">
+    <p> <div style="text-align:justify"> <div style="text-align:justify"> In this frequency divider the outputs of Q0 to Q4 will be put to the inputs A0 to A4 of the Eprom memory, all this so that it receives with different frequencies the pulse signal of our system. Slower the signal of A0 and faster the signal of A4. Giving as a result that these outputs will count from 0 to 8. </div> </p>
+  </div>
+  <!-- Área de la imagen (parte derecha) -->
+  <div class="imagen">
+    <img src="https://javiersainzvillalba.github.io/images/EPROM2.png" alt="ddd" height="2637" width="2490">
+  </div>
+</div>
+</body> 
 <br>
 # AND Logic Gate
 <div style="text-align:justify"> A gate and will be set so that when the Eprom memory inputs A1, A2 and A4 are set to one the system starts over again. And these are these outputs because it is when the system reaches 21 that the system starts again. If you wanted to start again from 12 you would only have to set the outputs A2 and A3 and so on. </div>
